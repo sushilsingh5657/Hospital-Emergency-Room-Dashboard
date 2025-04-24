@@ -37,14 +37,26 @@ The objective of this dashboard is to provide a comprehensive and real-time over
 This dashboard enables healthcare administrators to identify performance gaps, allocate resources efficiently, and improve patient care delivery.
 
 # ⚙️ Process & Steps Involved:
-# 1. Data Collection:
-•	Collected raw data for the month of January 2024.
+# 1. Requirement Gathering and Planning
+•	Identified KPIs: number of patients, wait time, satisfaction score, admission status, gender & age distribution, departmental referrals, and attend status.
 
-•	Data categories likely include patient records, timestamps, gender, department referred, admission details, and feedback scores.
-# 2. Data Cleaning and Preparation:
-•	Removed duplicates, corrected errors, formatted date/time values.
+•	Defined the purpose: visualize hospital emergency room performance for better insights and decisions.
 
-•	Ensured consistent entries (e.g., Male/Female instead of M/F).
+•	Outlined user expectations: monthly-wise analysis with yearly context.
+________________________________________
+# 2. Data Collection and Preparation
+•	Collected raw data from hospital records or sample datasets.
+
+•	Cleaned data:
+o	Removed duplicates and blanks.
+o	Standardized date formats.
+o	Handled missing values.
+
+•	Structured tables for:
+o	Patient demographics (age, gender).
+o	Visit details (wait time, attend status).
+o	Admission and referral status.
+
 # 3. Pivot Tables & Charts:
 •	Used Pivot Tables to summarize categorical data (e.g., admission status, age groups).
 
@@ -56,19 +68,40 @@ o	Department referrals
 
 o	Gender analysis
 o	Attendance status
+# 4. Data Analysis
+•	Used Excel formulas like:
+o	COUNTIFS, SUMIFS, AVERAGEIFS for KPI calculations.
+o	IF, VLOOKUP, INDEX-MATCH for conditional logic.
+o	TEXT, DATE, LEFT/RIGHT/MID for formatting and transformations.
+________________________________________
+# 5. Dashboard Design
+•	Created layout with clear sections:
+o	KPIs at the top.
+o	Charts for patient status, gender, age group.
+o	Slicers for month and year filtering.
+o	Admission and department breakdowns.
 
-•	Line/Area charts might represent trend lines (as shown behind metrics).
-# 4. Dashboard Layout:
-•	Used Excel shapes, icons, and slicers (e.g., month selection on the left).
+•	Applied consistent color themes (e.g., blue & orange) for readability and visual appeal.
+________________________________________
+# 6. Chart Creation
+•	Built visuals using:
+o	Bar Charts: Patient by age group, department referral.
+o	Pie/Donut Charts: Gender and attend status.
+o	Line Charts/Sparklines: Trend indicators for KPIs.
 
-•	Organized KPIs into panels for clear readability.
+•	Used dynamic ranges and named ranges for responsiveness to slicers.
+________________________________________
+# 7. Interactivity with Slicers and Filters
+•	Added Month and Year Slicers to allow real-time filtering of visuals.
 
-•	Conditional formatting may have been used for emphasis.
+•	Linked slicers with PivotTables to update all metrics dynamically.
+________________________________________
+# 8. Testing and Validation
+•	Validated metrics against source data for accuracy.
 
-# 5. Interactivity:
-•	Month-wise slicer allows users to switch between monthly reports.
+•	Checked slicer responsiveness and interactivity.
 
-•	Dynamic data updates when a new month is selected.
+•	Ensured all visuals update correctly as filters change.
 
 ________________________________________
 # 🛠️ Tools & Features Used:
