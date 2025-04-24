@@ -15,6 +15,7 @@ This Excel dashboard provides a holistic view of emergency room operations and p
 •	Displays how many patients are referred to various departments such as General Practice, Orthopedics, Cardiology, Neurology, etc., helping assess departmental load and inter-departmental coordination.
 # 📅 Time Navigation:
 •	Monthly buttons (Jan–Dec) allow users to interactively filter the data by month while still maintaining a cumulative yearly overview. This enhances usability and supports both trend analysis and detailed monthly reviews.
+
 <img width="868" alt="Excel Dashboard1" src="https://github.com/user-attachments/assets/e8835cc7-1d89-49ca-a80f-d5be301f67f5" />
 # 🎯 Objective of the Dashboard
 The objective of this dashboard is to provide a comprehensive and real-time overview of key metrics related to hospital emergency room operations. It helps stakeholders monitor:
