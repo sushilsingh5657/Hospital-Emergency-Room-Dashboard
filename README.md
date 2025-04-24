@@ -50,12 +50,19 @@ o	Attendance status
 ________________________________________
 # 🛠️ Tools & Features Used:
 •	Microsoft Excel (preferably 2016 or later)
+
 •	Pivot Tables & Pivot Charts
+
 •	Slicers for interactivity
+
 •	Conditional Formatting
+
 •	Formulas like COUNTIF(), AVERAGE(), SUMIF(), IF()
+
 •	Chart Tools (Bar, Pie, Donut)
+
 •	Icons and Shapes for UI enhancement
+
 # Purpose and Usage
 The dashboard is designed to:
 •	Improve transparency and decision-making in ER operations.
