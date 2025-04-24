@@ -76,6 +76,7 @@ The dashboard is designed to:
 •	Track year-over-year performance with actionable insights.
 
 <img width="861" alt="Excel Dashboard2" src="https://github.com/user-attachments/assets/7daa08e0-6bba-4470-a75f-55f5c58d0bd0" />
+
 # Dashboard 2: Daily Volume Trend
 
 Focus: Shows how many instances (likely customers, tasks, or visits) occurred daily.
@@ -85,6 +86,7 @@ Focus: Shows how many instances (likely customers, tasks, or visits) occurred da
 •	Insight: Perfect for workload analysis or capacity planning.
 
 <img width="877" alt="Excel Dashboard3" src="https://github.com/user-attachments/assets/ca322208-8479-4bf1-bab6-78604911052f" />
+
 # Dashboard 3: Wait Time Analysis
 
 Focus: Displays average wait times for each day.
@@ -94,6 +96,7 @@ Focus: Displays average wait times for each day.
 •	Insight: These peaks could relate to staff shortages, high traffic, or technical issues.
 
 <img width="864" alt="Excel Dashboard4" src="https://github.com/user-attachments/assets/f67554d2-24c9-40fd-9c54-ba52c1ceac45" />
+
 # Dashboard 4: Satisfaction Trend
 
 Focus: Tracks daily customer satisfaction scores.
