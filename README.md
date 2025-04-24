@@ -18,12 +18,19 @@ This Excel dashboard provides a holistic view of emergency room operations and p
 <img width="868" alt="Excel Dashboard1" src="https://github.com/user-attachments/assets/e8835cc7-1d89-49ca-a80f-d5be301f67f5" />
 # 🎯 Objective of the Dashboard
 The objective of this dashboard is to provide a comprehensive and real-time overview of key metrics related to hospital emergency room operations. It helps stakeholders monitor:
+
 •	Patient Volume: Total number of patients per month.
+
 •	Operational Efficiency: Average wait times and patient attend status (on-time vs. delayed).
+
 •	Patient Experience: Satisfaction scores and admission rates.
+
 •	Demographics: Patient age group distribution and gender analysis.
+
 •	Departmental Insights: Patient referrals by medical departments.
+
 This dashboard enables healthcare administrators to identify performance gaps, allocate resources efficiently, and improve patient care delivery.
+
 # ⚙️ Process & Steps Involved:
 # 1. Data Collection:
 •	Collected raw data for the month of January 2024.
