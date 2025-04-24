@@ -39,26 +39,37 @@ This dashboard enables healthcare administrators to identify performance gaps, a
 # ⚙️ Process & Steps Involved:
 # 1. Data Collection:
 •	Collected raw data for the month of January 2024.
+
 •	Data categories likely include patient records, timestamps, gender, department referred, admission details, and feedback scores.
 # 2. Data Cleaning and Preparation:
 •	Removed duplicates, corrected errors, formatted date/time values.
+
 •	Ensured consistent entries (e.g., Male/Female instead of M/F).
 # 3. Pivot Tables & Charts:
 •	Used Pivot Tables to summarize categorical data (e.g., admission status, age groups).
+
 •	Created bar charts for:
 o	Age group distribution
 o	Department referrals
+
 •	Created pie/donut charts for:
+
 o	Gender analysis
 o	Attendance status
+
 •	Line/Area charts might represent trend lines (as shown behind metrics).
 # 4. Dashboard Layout:
 •	Used Excel shapes, icons, and slicers (e.g., month selection on the left).
+
 •	Organized KPIs into panels for clear readability.
+
 •	Conditional formatting may have been used for emphasis.
+
 # 5. Interactivity:
 •	Month-wise slicer allows users to switch between monthly reports.
+
 •	Dynamic data updates when a new month is selected.
+
 ________________________________________
 # 🛠️ Tools & Features Used:
 •	Microsoft Excel (preferably 2016 or later)
