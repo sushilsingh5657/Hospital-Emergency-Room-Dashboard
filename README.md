@@ -62,7 +62,6 @@ The dashboard is designed to:
 •	Help optimize patient flow and resource management.
 •	Identify service bottlenecks and demographic trends.
 •	Track year-over-year performance with actionable insights.
-
 <img width="861" alt="Excel Dashboard2" src="https://github.com/user-attachments/assets/7daa08e0-6bba-4470-a75f-55f5c58d0bd0" />
 # Dashboard 2: Daily Volume Trend
 Focus: Shows how many instances (likely customers, tasks, or visits) occurred daily.
