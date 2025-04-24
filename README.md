@@ -48,45 +48,65 @@ ________________________________________
 •	Collected raw data from hospital records or sample datasets.
 
 •	Cleaned data:
+
 o	Removed duplicates and blanks.
+
 o	Standardized date formats.
+
 o	Handled missing values.
 
 •	Structured tables for:
+
 o	Patient demographics (age, gender).
+
 o	Visit details (wait time, attend status).
+
 o	Admission and referral status.
 
 # 3. Pivot Tables & Charts:
 •	Used Pivot Tables to summarize categorical data (e.g., admission status, age groups).
 
 •	Created bar charts for:
+
 o	Age group distribution
+
 o	Department referrals
 
 •	Created pie/donut charts for:
 
 o	Gender analysis
+
 o	Attendance status
 # 4. Data Analysis
 •	Used Excel formulas like:
+
 o	COUNTIFS, SUMIFS, AVERAGEIFS for KPI calculations.
+
 o	IF, VLOOKUP, INDEX-MATCH for conditional logic.
+
 o	TEXT, DATE, LEFT/RIGHT/MID for formatting and transformations.
 ________________________________________
 # 5. Dashboard Design
 •	Created layout with clear sections:
+
 o	KPIs at the top.
+
 o	Charts for patient status, gender, age group.
+
 o	Slicers for month and year filtering.
+
 o	Admission and department breakdowns.
+
 
 •	Applied consistent color themes (e.g., blue & orange) for readability and visual appeal.
 ________________________________________
 # 6. Chart Creation
 •	Built visuals using:
+
 o	Bar Charts: Patient by age group, department referral.
+
 o	Pie/Donut Charts: Gender and attend status.
+
 o	Line Charts/Sparklines: Trend indicators for KPIs.
 
 •	Used dynamic ranges and named ranges for responsiveness to slicers.
@@ -102,6 +122,7 @@ ________________________________________
 •	Checked slicer responsiveness and interactivity.
 
 •	Ensured all visuals update correctly as filters change.
+
 
 ________________________________________
 # 🛠️ Tools & Features Used:
