@@ -64,26 +64,44 @@ ________________________________________
 •	Icons and Shapes for UI enhancement
 
 # Purpose and Usage
+
 The dashboard is designed to:
+
 •	Improve transparency and decision-making in ER operations.
+
 •	Help optimize patient flow and resource management.
+
 •	Identify service bottlenecks and demographic trends.
+
 •	Track year-over-year performance with actionable insights.
+
 <img width="861" alt="Excel Dashboard2" src="https://github.com/user-attachments/assets/7daa08e0-6bba-4470-a75f-55f5c58d0bd0" />
 # Dashboard 2: Daily Volume Trend
+
 Focus: Shows how many instances (likely customers, tasks, or visits) occurred daily.
+
 •	Use: Helps identify busy days (like 5-Jan, 14-Jan, 28-Jan with values 22, 25, and 20) and low-activity days (e.g., 19-Jan with a value of 10).
+
 •	Insight: Perfect for workload analysis or capacity planning.
+
 <img width="877" alt="Excel Dashboard3" src="https://github.com/user-attachments/assets/ca322208-8479-4bf1-bab6-78604911052f" />
 # Dashboard 3: Wait Time Analysis
+
 Focus: Displays average wait times for each day.
+
 •	Use: Detects days where wait times were unusually high (e.g., 8-Jan: 43.52 mins, 19-Jan: 41.60 mins), suggesting possible inefficiencies.
+
 •	Insight: These peaks could relate to staff shortages, high traffic, or technical issues.
+
 <img width="864" alt="Excel Dashboard4" src="https://github.com/user-attachments/assets/f67554d2-24c9-40fd-9c54-ba52c1ceac45" />
 # Dashboard 4: Satisfaction Trend
+
 Focus: Tracks daily customer satisfaction scores.
+
 •	Use: Indicates satisfaction dips on certain days (e.g., 31-Jan: 1.40; 9-Jan: 3.00), which can be cross-referenced with busy days or long wait times.
+
 •	Insight: A sharp drop in satisfaction often coincides with high volume or wait times—valuable for identifying root causes.
+
 # Summary of Insights
 The dashboards reveal a strong connection between daily customer volume, wait time, and satisfaction levels. High customer volume often leads to longer wait times, which negatively impacts satisfaction. However, efficient handling on high-volume days can still maintain high satisfaction scores, as seen on specific dates. Notably, low volume doesn’t always ensure better service, indicating possible inefficiencies. Overall, maintaining consistent operational performance and balancing resources according to traffic patterns are key to improving both wait times and customer satisfaction.
 
