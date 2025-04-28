@@ -1,4 +1,4 @@
-# Hospital-Emergency-Room-Dashboard
+# Excel Project: Hospital-Emergency-Room-Dashboard
 This Excel dashboard provides a holistic view of emergency room operations and patient flow throughout the year. It consolidates critical healthcare KPIs in a visually intuitive format, empowering hospital administrators and decision-makers to analyze and improve service delivery.
 # 📊 Key Metrics Covered:
 •	Patient Overview: Tracks the total number of patients (e.g., 513 in January) to monitor ER traffic trends and prepare staffing and resource planning accordingly.
@@ -126,7 +126,7 @@ ________________________________________
 
 ________________________________________
 # 🛠️ Tools & Features Used:
-•	Microsoft Excel (preferably 2016 or later)
+•	Microsoft Excel
 
 •	Pivot Tables & Pivot Charts
 
